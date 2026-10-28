@@ -1,31 +1,26 @@
-<img width="400" height="400" alt="Fire" src="https://github.com/user-attachments/assets/bd562577-f343-4fc6-a03d-1a7069c3b9d6" />
+<p align="center">
+  <img width="900" height="600" alt="Fire" src="https://github.com/user-attachments/assets/bd562577-f343-4fc6-a03d-1a7069c3b9d6" />
+</p>
+
+<h1 align="center">🚀 Mohsin Zeb</h1>
+<h3 align="center">Software Engineer • Automation Developer • Financial Systems Researcher</h3>
+
+<p align="center">
+  <a href="mailto:mohsinzebsm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+</p>
 
 
-✨
+## 🧠 About Me
 
+Hi 👋, I'm Mohsin Zeb.I am Software Engineer.My interests lie in: 
+- Building smart,
+- Automated systems 
+- Developing technical indicators for financial markets.
+Currently pursuing **BSc. Software Engineering at PAF-IAST**.
 
-
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24462
-Fork on GitHub
-8413
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Mohsin Zeb</h1>
-<h3 align="center">I am Software Engineer.My interests lie in building smart, automated systems and in developing technical indicators for financial markets.</h3>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
@@ -33,7 +28,6 @@ preview
 
 - 📫 How to reach me **mohsinzebsm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -42,27 +36,4 @@ preview
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzebz&show_icons=true&locale=en&layout=compact" alt="mrzebz" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+
