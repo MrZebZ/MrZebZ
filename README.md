@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 Hi 👋, I'm Mohsin Zeb.I am Software Engineer.My interests lie in: 
-- Building smart,
+- Full Stack Development
 - Automated systems 
 - Developing technical indicators for financial markets.
 
