@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="600" alt="Fire" src="https://github.com/user-attachments/assets/bd562577-f343-4fc6-a03d-1a7069c3b9d6" />
+  <img width="700" height="500" alt="Fire" src="https://github.com/user-attachments/assets/bd562577-f343-4fc6-a03d-1a7069c3b9d6" />
 </p>
 
 <h1 align="center">🚀 Mohsin Zeb</h1>
